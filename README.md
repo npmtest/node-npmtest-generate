@@ -1,4 +1,7 @@
-# test coverage for  [generate (v0.13.1)](https://github.com/generate/generate)  [![npm package](https://img.shields.io/npm/v/npmtest-generate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generate.svg)](https://travis-ci.org/npmtest/node-npmtest-generate)
+# npmtest-generate
+
+#### basic test-coverage for  [generate (v0.13.1)](https://github.com/generate/generate)  [![npm package](https://img.shields.io/npm/v/npmtest-generate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generate.svg)](https://travis-ci.org/npmtest/node-npmtest-generate)
+
 #### Command line tool and developer framework for scaffolding out new GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more powerful flow control and composability than either.
 
 [![NPM](https://nodei.co/npm/generate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generate)
